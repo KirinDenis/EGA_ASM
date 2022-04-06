@@ -1,6 +1,6 @@
-### EGA_ASM
+## EGA_ASM
 
-## My MS DOS 6.22 Assembler 8086 (TASM) works.
+### My MS DOS 6.22 Assembler 8086 (TASM) works.
 
 I did these projects in 1997-1998 years - while I was learning the assembler programming language. 
 

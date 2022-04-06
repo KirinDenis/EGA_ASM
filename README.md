@@ -11,8 +11,7 @@ So, the presented projects are made in 16 colors. A very interesting and unforge
 
 [![what the assembler source code do](https://i9.ytimg.com/vi/DO3hbYn2NE0/mq2.jpg?sqp=CMjwt5IG&rs=AOn4CLDB3fjrIbZnKqkEOM3FY9NvvXtNJg)](https://youtu.be/DO3hbYn2NE0)
 
-^^^                              ^^^  
-|||                              ||| 
+^^^                              
 Click the image to see YouTube video
 
 Let this repository be my little personal museum 🐲

@@ -1,5 +1,7 @@
 ## EGA_ASM
 
+![EGA ASM LOGO](https://github.com/KirinDenis/EGA_ASM/raw/main/ASM_EGA_LOGO.png)
+
 ### My MS DOS 6.22 Assembler 8086 (TASM) works.
 
 I did these projects in 1998-1999 years - while I was learning the assembler programming language. 
